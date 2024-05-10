@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE:
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,9 +44,13 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/hanshika-773/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/153576501/7ce2d4f5-bd9a-4f75-babc-b5d6cdaab551)
+![image](https://github.com/hanshika-773/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/153576501/60903e23-6a87-4a52-8c0a-2a82153cb2c4)
 
-### Name:
-### Register Number:
+
+
+### Name: Vinnush kumar L S
+### Register Number: 212223230244
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
